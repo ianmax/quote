@@ -1,0 +1,71 @@
+h1 {
+    font-size: 34px;
+}
+
+h2 {
+    font-size: 59px;
+}
+
+p {
+    font-size: 17px;
+}
+
+h5 {
+    font-size: 12px;
+}
+
+h3 {
+    font-size: 11px;
+}
+
+h4 {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+footer a {
+    color: rgb(45, 32, 223);
+}
+
+footer p {
+    font-size: 12px;
+}
+
+h5 a {
+    color: rgb(96, 95, 100);
+}
+
+footer {
+    color: grey
+}
+
+.quote {
+    font-family: 'Cardo', serif;
+    font-size: 36px;
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #efefef;
+    padding: 20px;
+    background-color: rgba(255,255,255,0.9);;
+    border-radius: 20px;
+    color: #000;
+    box-shadow: -10px 10px 20px rgba(100,100,100,.8);;
+  }
+  
+  .author {
+    font-style: italic;
+  }
+  
+  .button {
+    font-family: 'Tangerine', serif;
+    height: 50px;
+    width: 150px;
+    margin: 20px auto;
+    color: rgba(0,0,0,1);
+    background-color: rgba(160,200,160,.8);;
+    text-align: center; 
+    font-size: 24px;
+    border-radius: 15px;
+    box-shadow: -5px 5px 10px rgba(100,100,100,.8);;
+  }
